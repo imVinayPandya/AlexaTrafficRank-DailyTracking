@@ -1,0 +1,16 @@
+{
+  "name": "alexatrafficrank-dailytracking",
+  "version": "0.0.1",
+  "main": "index.js,",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "mongoose": "latest",
+    "alexa-traffic-rank": "latest"
+  },
+  "author": {
+    "name": "Vinay Pandya",
+    "email": "005vinay@gmail.com"
+  }
+}
